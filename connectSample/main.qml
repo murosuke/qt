@@ -65,7 +65,7 @@ Window {
                 bold: true
                 pointSize: column.fontSize
             }
-            text: "---- sample for accessing C++ object(one instance) from QML ----"
+            text: "---- sample for accessing C++ object(one instance) in QML ----"
         }
         RowLayout{
             Layout.fillWidth: true
